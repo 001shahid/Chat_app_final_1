@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "983110106150",
+    "firebase_url": "https://whatapp-778d3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "whatapp-778d3",
+    "storage_bucket": "whatapp-778d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983110106150:android:9d7858339e73b4749afae7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983110106150-5jfiu9mo8iug2mq2ngjftppr981lm8nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD-4rVKdaOyTEl5Vkf6GS6A0TI4jQjdiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983110106150-5jfiu9mo8iug2mq2ngjftppr981lm8nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983110106150-63op8ueihr1updc63biepeqqrj8e82ce.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
